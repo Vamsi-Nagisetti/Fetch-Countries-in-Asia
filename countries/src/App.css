@@ -1,0 +1,28 @@
+.languages h5 , .borders h5{
+  display: inline;
+  margin: 0.5rem;
+  justify-content: space-around;
+}
+
+.card{
+   border-radius: 21px;
+    margin: 1rem;
+}
+
+
+.flags{
+  width: 300px;
+  height: 300px;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+#fetch-btn{
+  margin-left: 45%;
+  margin-top: 5%;
+  border-radius: 21px;
+  margin-bottom: 20px;
+
+}
